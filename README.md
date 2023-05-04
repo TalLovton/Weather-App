@@ -1,6 +1,7 @@
 # Weather-App
 Weather app written with Python using OpenWeather API to get all the data anytime everywhere!.
 ## Installation
+![4](https://user-images.githubusercontent.com/78549129/236193871-6df4fd9c-6a45-435f-bb6e-fdbcd91d7911.jpg)
 
 
 ### landing page display
