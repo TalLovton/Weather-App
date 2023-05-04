@@ -10,3 +10,5 @@ The app is displayed with GUI TKinter library.
 ![2](https://user-images.githubusercontent.com/78549129/236192701-746489c5-8b11-4c6c-8af8-a298aabe94c5.jpg)
 
 ### checking Ty-pos display
+![3](https://user-images.githubusercontent.com/78549129/236192994-689c0ecf-bf45-4259-9342-6ebadaa8f028.jpg)
+
