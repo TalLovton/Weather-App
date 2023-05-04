@@ -6,12 +6,7 @@ The app is displayed with GUI TKinter library.
 ### landing page display
 ![1](https://user-images.githubusercontent.com/78549129/236192362-f96d6520-0a69-4093-a52e-7f1918f7e39c.jpg)
 
-
-
 ### Input city display
-
-
-### result display
-
+![2](https://user-images.githubusercontent.com/78549129/236192701-746489c5-8b11-4c6c-8af8-a298aabe94c5.jpg)
 
 ### checking Ty-pos display
