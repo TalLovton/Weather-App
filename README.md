@@ -1,8 +1,16 @@
-# Weather-App
-Weather app written with Python using OpenWeather API to get all the data anytime everywhere!.
-## Installation
-![4](https://user-images.githubusercontent.com/78549129/236193871-6df4fd9c-6a45-435f-bb6e-fdbcd91d7911.jpg)
+# Weather App
+This is a simple weather application developed using Python and Tkinter library. The app allows users to retrieve weather details for a specific location using the OpenWeatherMap API.
 
+## Features
+Retrieve current weather details including temperature, humidity, wind speed, and weather conditions.
+Display the weather information in a user-friendly graphical interface.
+Support for searching weather by city name.
+
+## Requirements
+* Python 3.x
+* Tkinter library
+* Requests library
+* OpenWeatherMap API key
 
 ### landing page display
 ![1](https://user-images.githubusercontent.com/78549129/236192362-f96d6520-0a69-4093-a52e-7f1918f7e39c.jpg)
