@@ -1,5 +1,5 @@
 # Weather App
-This is a simple weather application developed using Python and Tkinter library. The app allows users to retrieve weather details for a specific location using the OpenWeatherMap API.
+This is a simple Weather App implemented in Python using the Tkinter library. It allows users to search for the weather information of a specific city and displays various weather attributes such as temperature, feels like temperature, wind speed, humidity, description, and sunrise/sunset times.
 
 ## Features
 Retrieve current weather details including temperature, humidity, wind speed, and weather conditions.
@@ -11,6 +11,15 @@ Support for searching weather by city name.
 * Tkinter library
 * Requests library
 * OpenWeatherMap API key
+* 
+## How to Use
+1) Run the script using a Python interpreter.
+2) The Weather App window will open.
+3) Enter the name of a city in the search box.
+4) Click the search icon or press Enter to get the weather information for the entered city.
+5) If the city is found, the app will display the temperature, feels like temperature, wind speed, humidity, description, and sunrise/sunset times.
+6) If the city is not found, an error message will be displayed.
+
 
 ### landing page display
 ![1](https://user-images.githubusercontent.com/78549129/236192362-f96d6520-0a69-4093-a52e-7f1918f7e39c.jpg)
